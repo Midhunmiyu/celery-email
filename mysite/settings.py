@@ -141,5 +141,5 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.yandex.ru'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'fastmail@smtp-mail.noviindus.co.in'
-EMAIL_HOST_PASSWORD = 'lkccuuumldssxost'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
